@@ -27,7 +27,7 @@ except Exception:
 # ⚙️  CONFIG
 # ═══════════════════════════════════════════════════════════════
 
-OWNER_ID = 8783373485
+OWNER_ID = 8972907906
 
 BOT_TOKENS = [
     "9219051183:AAFn3MRl_QisZHXl2wbzdg69p_WkCUOk3X0",
